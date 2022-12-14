@@ -1,4 +1,7 @@
 # NLP Legal Named Entity  Recognition
+
+### Task Repo:  https://github.com/Legal-NLP-EkStep/legal_NER
+
 ### Introduction
 Named Entity Recognition is the task of identifying and classifying named entities in unstructured text. In the legal domain, named entities of interest may include the case parties, judges, names of courts, case numbers, references to laws, etc. However, these named entities are peculiar and are not recognized by standard NER. In this project, we train the ALBERT model on Indian court judgment texts and evaluate its performance on the given dataset.
 
